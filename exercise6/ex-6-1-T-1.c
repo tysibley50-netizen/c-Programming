@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+int main(void) {
 	int integer = 0;
 	printf("Please give me an integer to count to: ");
 	scanf("%d", &integer);
